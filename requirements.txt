@@ -1,0 +1,12 @@
+# Core Dependencies
+numpy>=1.21.0
+matplotlib>=3.5.0
+colorama>=0.4.4
+
+# Web Interface Dependencies
+streamlit>=1.28.0
+plotly>=5.15.0
+pandas>=2.0.0
+
+# Development Dependencies
+pytest>=7.0.0
